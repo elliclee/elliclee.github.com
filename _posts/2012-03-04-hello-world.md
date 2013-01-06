@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world!
-category: 文字记录
+category: writing
 ---
 
 现在，我可以：
