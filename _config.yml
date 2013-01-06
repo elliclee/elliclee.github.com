@@ -13,12 +13,16 @@ custom:
     category:
         writing: 文字记录
         tech: 技术记录
+        sharing: 技术分享
     categories:
       - name:  writing
         title: 文字记录
 
       - name:  tech
         title: 技术记录
+
+      - name:  sharing
+        title: 技术分享
 
 meta:   
     author:
