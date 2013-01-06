@@ -48,9 +48,10 @@ var site = {
 		showAjaxContent: function (node, response) {
 			var article = elf(node);
 			var content = response.split('<p class="meta">')[1].split('</p>');
-			content.shift();
-			content = content.join('</p>');
+			content.shift(); //shift() 方法用于把数组的第一个元素从其中删除，并返回第一个元素的值。
+			content = content.join('</p>'); //join() 方法用于把数组中的所有元素放入一个字符串。
 			content = content.split(/<\/article>/)[0];
+			//截取内容，并添加继续阅读链接
 			article.query('>.article-content').html(content);
 			article.attr('content-loaded', 1);
 			article.query('pre').forEach(function (item) {
