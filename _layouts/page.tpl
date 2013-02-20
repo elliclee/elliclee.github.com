@@ -69,6 +69,7 @@
 			<a href="http://softwaremaniacs.org/soft/highlight/en/">HighlightJS</a>,
 			<a href="https://github.com/mojombo/jekyll" target="_blank">jekyll</a>,
 			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>
+			<a href="twitter.github.com/bootstrap" target="_blank">BootStrap</a>
 		</p>
 	</div>
 </aside>
