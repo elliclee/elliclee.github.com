@@ -4,3 +4,6 @@
 
 http://elliclee.github.com
 
+资源：
+
+使用 Jkeyll 搭建的博客列表：[https://github.com/mojombo/jekyll/wiki/Sites](https://github.com/mojombo/jekyll/wiki/Sites)，基本上都是与技术相关的，可以浏览学习。

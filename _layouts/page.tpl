@@ -19,12 +19,12 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012</p>
+		<p>elliclee.gitbub.com &copy; Since 2012</p>
 	</footer>
 </div>
 
 <aside>
-	<h2><a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><img src="http://blog.rexsong.com/wp-content/themes/rexsong/icon_feed.gif" alt="RSS feed" /></a></h2>
+	<h2><a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><img src="/assets/img/icon_feed.gif" alt="RSS feed" /></a></h2>
 	
 	<nav class="block">
 		<ul>
@@ -34,12 +34,12 @@
 	</nav>
 	
 	<form action="/search/" class="block block-search">
-		<h3>Search</h3>
+		<h3>搜索</h3>
 		<p><input type="search" name="q" placeholder="Search" /></p>
 	</form>
 	
 	<div class="block block-about">
-		<h3>About</h3>
+		<h3>关于</h3>
 		<figure>
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
@@ -68,7 +68,7 @@
 			<a href="http://en.gravatar.com/" target="_blank">Gravatar</a>,
 			<a href="http://softwaremaniacs.org/soft/highlight/en/">HighlightJS</a>,
 			<a href="https://github.com/mojombo/jekyll" target="_blank">jekyll</a>,
-			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>
+			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>,
 			<a href="twitter.github.com/bootstrap" target="_blank">BootStrap</a>
 		</p>
 	</div>
