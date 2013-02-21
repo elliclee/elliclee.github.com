@@ -13,7 +13,8 @@ custom:
     category:
         writing: 文字记录
         tech: 技术记录
-        sharing: 技术分享
+        sharing: 他山之石
+        javascript: JavaScript
     categories:
       - name:  writing
         title: 文字记录
@@ -22,7 +23,10 @@ custom:
         title: 技术记录
 
       - name:  sharing
-        title: 技术分享
+        title: 他山之石
+
+      - name: javascript
+        title: JavaScript
 
 meta:   
     author:
