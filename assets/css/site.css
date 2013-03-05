@@ -70,7 +70,9 @@ article blockquote{
 	line-height:1.6em;
 	font-size: 13px !important;
 }
-
+blockquote p {
+	font-size: 13px;
+}
 article .meta{line-height:1.6em; font-size:80%; margin:0.5em 0 2em 0; color:#999;}
 article .meta:last-child{margin-bottom:0;}
 article .gist .gist-file .gist-meta{padding:0 .5em;}

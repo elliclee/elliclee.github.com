@@ -13,5 +13,9 @@ Github 除了这的产品之外，本身就是家非常让人喜欢的公司，�
 
 这也跟具体的情景有关，对于国内很多团队来说，这并不现实，国内外的程序员首先在水平上有所差异，然后在自我认识上也会有所不同。
 
-第二篇是[《BE ASYNCHRONOUS》](http://zachholman.com/posts/how-github-works-asynchronous/)，提到了异步的协同方式，
+第二篇是[《BE ASYNCHRONOUS》](http://zachholman.com/posts/how-github-works-asynchronous/)，提到了异步的协同方式，其实他们的工作方式就跟 Git 一样。
+
+= =# 看着看着发现实在没有什么干货，就这样吧，sigh。
+
+-EOF-
 
