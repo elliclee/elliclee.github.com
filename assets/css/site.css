@@ -62,7 +62,13 @@ article th,article td{padding:0 10px; border:1px solid #ccc; font-size:85%;}
 article th{background:#eee; text-align:left;}
 article td{background:#fff;}
 article table a{margin:0;}
-article blockquote{line-height:1.6em; margin:1em 0 1em 1.5em; border-left:2px solid #eee; padding-left:1em; font-size:90%;}
+article blockquote{
+	border-left: 5px solid #EAEEF1;
+	color: #555;
+	margin: 20px;
+	padding: 0 20px;
+	line-height:1.6em;
+}
 
 article .meta{line-height:1.6em; font-size:80%; margin:0.5em 0 2em 0; color:#999;}
 article .meta:last-child{margin-bottom:0;}
