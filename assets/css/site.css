@@ -68,6 +68,7 @@ article blockquote{
 	margin: 20px;
 	padding: 0 20px;
 	line-height:1.6em;
+	font-size: 13px !important;
 }
 
 article .meta{line-height:1.6em; font-size:80%; margin:0.5em 0 2em 0; color:#999;}
