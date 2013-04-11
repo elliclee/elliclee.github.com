@@ -10,5 +10,5 @@ category: writing
 
 在 Mac 上，遇到一个非常优秀的 Markdown 编辑器 - [Mou](http://mouapp.com/)， 大家可以试试。
 
-![Mou](http://ww1.sinaimg.cn/large/a74ecc4cjw1e3lpp82xmrj.jpg)
+<img src="http://ww1.sinaimg.cn/large/a74ecc4cjw1e3lpp82xmrj.jpg" alt="Mou" style="width: 100%;"/>
  
