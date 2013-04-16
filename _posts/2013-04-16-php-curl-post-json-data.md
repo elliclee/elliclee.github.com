@@ -21,4 +21,6 @@ function post($url, $jsonData){
 }
 </pre>
 
-ps.微信的文档组织的不是一般的乱。
+ps. 如果要传递一个标准 Array 对象时，如果 Array 有嵌套的话，直接传送的话也是有问题的，这里可以把 Array 给转化一下：<code>http_build_query($data)</code> 即可。
+
+再 ps.微信的文档组织的不是一般的乱。
