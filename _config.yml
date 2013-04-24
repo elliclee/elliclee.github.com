@@ -15,6 +15,7 @@ custom:
         tech: 技术记录
         sharing: 他山之石
         javascript: JavaScript
+        phonegap: PhoneGap
     categories:
       - name:  writing
         title: 文字记录
@@ -27,6 +28,9 @@ custom:
 
       - name: javascript
         title: JavaScript
+
+      - name: phonegap
+        title: PhoneGap
 
 meta:   
     author:
